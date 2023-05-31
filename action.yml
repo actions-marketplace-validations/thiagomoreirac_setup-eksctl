@@ -1,4 +1,4 @@
-name: 'Eksctl tool installer'
+name: 'Setup Eksctl tool'
 description: 'Install a specific version of eksctl for AWS Elastic Kubernetes Service (EKS).'
 inputs:
   version:
