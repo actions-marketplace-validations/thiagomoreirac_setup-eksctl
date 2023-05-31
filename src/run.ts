@@ -8,7 +8,7 @@ import * as core from '@actions/core';
 import * as semver from 'semver';
 
 const eksctlToolName = 'eksctl';
-const stableEksctlVersion = '0.57.0';
+const stableEksctlVersion = '0.143.0';
 const eksctlAllReleasesUrl = 'https://api.github.com/repos/weaveworks/eksctl/releases';
 
 export function getExecutableExtension(): string {
